@@ -1,0 +1,11 @@
+{
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'Cascadia Code', Menlo, Monaco, 'Courier New', monospace",
+    "diffEditor.codeLens": true,
+    "editor.quickSuggestions": {
+    
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    }
+}
